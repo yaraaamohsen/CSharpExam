@@ -1,0 +1,14 @@
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\bin\Debug\net8.0\ExamCSharp.exe
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\bin\Debug\net8.0\ExamCSharp.deps.json
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\bin\Debug\net8.0\ExamCSharp.runtimeconfig.json
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\bin\Debug\net8.0\ExamCSharp.dll
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\bin\Debug\net8.0\ExamCSharp.pdb
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ExamCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ExamCSharp.AssemblyInfoInputs.cache
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ExamCSharp.AssemblyInfo.cs
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ExamCSharp.csproj.CoreCompileInputs.cache
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ExamCSharp.dll
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\refint\ExamCSharp.dll
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ExamCSharp.pdb
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ExamCSharp.genruntimeconfig.cache
+D:\Backend Development\OOP\ExamCSharp\ExamCSharp\obj\Debug\net8.0\ref\ExamCSharp.dll
